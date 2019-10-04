@@ -10,7 +10,9 @@ If successful, you’ll improve the efficacy of fraudulent transaction alerts fo
 
 My submission was based on using recursive feature elimination to create feature selections and ranking before feeding it into a CatBoost model. I weighted it to duplicate,repetitive transactions.
 There is also code for CatBoost feature evaluation.
-##Noisy Data
+
+## Noisy Data
 There was an outstanding question of a polluted dataset because since frauds can only be detected after the fact, running Elliptical Envelopes and Isolation Forests shows outliers in the data.
-##Imbalanced Data
+
+## Imbalanced Data
 Having tried SMOTE, NearMiss, Tomeklinks and RandomUndersampler produced worse results

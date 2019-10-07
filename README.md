@@ -20,4 +20,4 @@ There was an outstanding question of a polluted dataset because since frauds can
 Having tried SMOTE, NearMiss, Tomeklinks and RandomUndersampler produced worse results
 
 ## Simple Model
-Using a simple model with just a few engineered features for decimal point, hour, week, day, email domain, country domain, OS, Browser, uniqueaddr, Device Info, Amount Flag, AmtDist, Transaction Amount Frequency, Duplicates and No of Nulls produced a final score of 0.9342, ranging in the top 50. Due to debugging errors, could not submit in time, had to do a late submission.
+Using a simple model with just a few engineered features for decimal point, hour, week, day, email domain, country domain, OS, Browser, uniqueaddr, Device Info, Amount Flag, AmtDist, Transaction Amount Frequency, Duplicates and No of Nulls produced a final score of 0.9342, ranging in the top 60. Due to debugging errors, could not submit in time, had to do a late submission.

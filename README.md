@@ -10,7 +10,7 @@ In this competition, you’ll benchmark machine learning models on a challenging
 If successful, you’ll improve the efficacy of fraudulent transaction alerts for millions of people around the world, helping hundreds of thousands of businesses reduce their fraud loss and increase their revenue. And of course, you will save party people just like you the hassle of false positives.
 ## Describe your project
 
-My submission was based on using recursive feature elimination to create feature selections and ranking before feeding it into a CatBoost model. I tried to weight it to duplicate,repetitive transactions.
+My submission was based on engineering simple features that recur in fraudulent transactions like multiple duplicate transactions, then feeding it into a CatBoost model using categorical feature support. I tried to weight it to duplicate,repetitive transactions.
 There is also code for CatBoost feature selection but it does not work well because evaluation is on AUC and not on class labels.
 
 ## Noisy Data

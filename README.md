@@ -1,6 +1,6 @@
 
-## IEEE CIS Fraud Detection Competition on Kaggle
-# Data Dump Here
+# IEEE CIS Fraud Detection Competition on Kaggle
+## Data Dump Here
 https://www.kaggle.com/c/ieee-fraud-detection/data
 ## Context
 IEEE-CIS works across a variety of AI and machine learning areas, including deep neural networks, fuzzy systems, evolutionary computation, and swarm intelligence. Today they’re partnering with the world’s leading payment service company, Vesta Corporation, seeking the best solutions for fraud prevention industry, and now you are invited to join the challenge.
